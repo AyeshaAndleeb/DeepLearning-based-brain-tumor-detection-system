@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Detection using Deep Learning
 
-This project is a deep learning-based web application for detecting brain tumors from MRI images. It allows users to upload MRI scans and receive instant predictions through an intuitive web interface.
+This project is a deep learning-based web application for detecting the brain tumors from MRI images. It allows users to upload MRI scans and receive instant predictions through an intuitive web interface.
 
 ---
 
